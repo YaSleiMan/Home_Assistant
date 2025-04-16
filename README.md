@@ -11,3 +11,7 @@ Current Features in mind:
   - Maintains a list of current ingredients in your kitchen
   - Can use this information to provide recipes for dishes you could make
   - Can remind you of what you need to get from the grocery store
+ 
+- Replace my Amazon Alexa (MAYBE):
+  - Interfaces with home smart devices if possible
+  - Plays music from personal streaming service
